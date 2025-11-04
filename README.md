@@ -1,2 +1,2 @@
 # my_first_repo
-I did a small edit here.
+This is a project for a course at H-Farm.
